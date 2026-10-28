@@ -231,7 +231,7 @@ supply-chain-delivery-performance/
 | `screenshot.png`                        | Dashboard screenshot                                                       |
 | `Screenshot ...png`                     | Additional dashboard screenshot                                            |
 
-*The file names above reflect the repository structure shared for this project. If you rename any files, update this section accordingly.*
+
 
 ---
 
